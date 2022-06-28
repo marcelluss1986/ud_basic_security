@@ -64,5 +64,10 @@ public class UserClient {
 	public Boolean isAdmin() {
 		return false;
 	}
+
+	public Object builder() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
